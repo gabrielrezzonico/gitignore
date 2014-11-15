@@ -1,0 +1,4 @@
+# Phonegap files
+######################
+platforms/android/ant-gen/
+platforms/android/ant-build/
